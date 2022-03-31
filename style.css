@@ -1,0 +1,11 @@
+@font-face {
+    font-family: fonte_two;
+    src: url("font02.ttf");
+}
+
+* {
+    text-transform: uppercase;
+    font-size: 60px;
+    font-family: fonte_two;
+    font-weight: 300;
+}
